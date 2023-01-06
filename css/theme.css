@@ -393,14 +393,14 @@ body>.navbar .brand:hover {
 
 .top-header { 
 	width: 100%; 
-	background-image: url(../thumbs/header.JPG); 
+	background-image: url(../thumbs/header.png); 
 	background-size: cover; 
 	background-position: right center; 
 } 
  
 .top-header > h1 { 
-	color: black; 
-	background-color: rgba(0,0,0,0.3);
+	color: white; 
+	background-color: rgba(0,0,0,0.2);
 	padding: 2em 1em; 
 	font-family: sans-serif; 
 } 
