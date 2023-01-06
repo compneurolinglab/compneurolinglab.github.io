@@ -389,6 +389,7 @@ body>.navbar .brand:hover {
 .subhead {
 	text-align: left;
 	border-bottom: 1px solid #ddd;
+	background-image: url("thumbs/header.JPG")
 }
 
 .jumbotron {
