@@ -389,8 +389,21 @@ body>.navbar .brand:hover {
 .subhead {
 	text-align: left;
 	border-bottom: 1px solid #ddd;
-	background-image: url("../thumbs/changjiang.jpg")
 }
+
+.top-header { 
+	width: 100%; 
+	background-image: url(../thumbs/header.JPG); 
+	background-size: cover; 
+	background-position: center; 
+} 
+ 
+.top-header > h1 { 
+	color: white; 
+	background-color: rgba(0,0,0,0.3); 
+	padding: 2em 1em; 
+	font-family: sans-serif; 
+} 
 
 .jumbotron {
 	position: relative;
