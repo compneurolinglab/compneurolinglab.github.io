@@ -400,7 +400,7 @@ body>.navbar .brand:hover {
  
 .top-header > h1 { 
 	color: white; 
-	background-color: rgba(0,0,0,0.2); 
+	background-color: rgba(0,0,0,0.5); 
 	padding: 2em 1em; 
 	font-family: sans-serif; 
 } 
