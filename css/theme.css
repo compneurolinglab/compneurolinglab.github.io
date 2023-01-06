@@ -395,12 +395,11 @@ body>.navbar .brand:hover {
 	width: 100%; 
 	background-image: url(../thumbs/header.png); 
 	background-size: cover; 
-	background-position: right center; 
+	background-position: center; 
 } 
  
 .top-header > h1 { 
 	color: white; 
-	background-color: rgba(0,0,0,0.2);
 	padding: 2em 1em; 
 	font-family: sans-serif; 
 } 
