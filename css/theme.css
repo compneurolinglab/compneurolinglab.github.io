@@ -393,8 +393,8 @@ body>.navbar .brand:hover {
 
 .top-header { 
 	width: 100%; 
-	background-image: url(thumbs/webbottom.JPG); 
-	background-size: cover; 
+	background-image: url(thumbs/cityu.jpg); 
+	background-size: contain; 
 	background-position: center; 
 } 
  
