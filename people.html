@@ -1,222 +1,228 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>People</title>
-    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=0.55, maximum-scale=1.0, minimum-scale=0.55">
-    <meta name="description" content="LAnguages, Machines & Brains Lab, Home, City University of Hong Kong">
-    <meta name="author" content="">
-    <!-- Le styles -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="css/theme.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/thumbs/sheep.ico" type="image/x-icon">
-  </head>
-  <body>
-    <div class="container">
-      <header class="top-header">
-        <h1></h1>
-      </header>
-      <div class="masthead">
-        <div class="navbar">
-          <div class="navbar-inner">
-            <div class="container">
-              <ul class="nav">
-                <li><a href="index.html">Home</a></li>
-                <li class="active"><a href="#">People</a></li>
-                <li><a href="research.html">Research</a></li>
-                <li><a href="publications.html">Publications</a></li>
-                <li><a href="seminars.html">Seminars</a></li>
-                <li><a href="teaching.html">Teaching</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="contact.html">Contact</a></li>
-              </ul>
-            </div>
-          </div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>People - LAMB</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="site-header regular-header">
+        <div class="header-container">
+            <a href="index.html" class="site-title">
+                <img src="thumbs/lablogo.jpg" alt="LAMB Lab" class="site-logo">
+            </a>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="people.html" class="active">People</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="teaching.html">Teaching</a></li>
+                    
+                    <li><a href="resource.html">Resources</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                </ul>
+            </nav>
         </div>
-      </div>
-      <hr>
-      <div class="row-fluid">
-        <div class="span3 bs-docs-sidebar" id="navparent">
-          <ul class="nav nav-list bs-docs-sidenav" data-spy="affix" data-offset-top="200" data-offset-bottom="260">
-            <li><a href="#principalinvestigator"> Principal Investigator</a></li>
-            <li><a href="#phd">Ph.D. Students</a></li>
-            <li><a href="#ug">Undergraduate Students</a></li>
-            <li><a href="#alumni">Alumni</a></li>
-          </ul>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content people-page">
+        <div class="container">
+            <!-- Current Members -->
+            <section class="people-section">
+                <div class="section-header">
+                    <h2 class="section-title">Current Members</h2>
+                </div>
+                <div class="people-grid-three">
+                    <div class="person-card">
+                        <img src="thumbs/jixing.jpg" alt="Dr. Jixing Li" class="person-photo">
+                        <h3 class="person-name">Jixing Li</h3>
+                        <p class="person-position">Principle Investigator</p>
+                        <p class="person-contact">jixingli[at]cityu[dot]edu[dot]hk</p>
+                        <p class="person-contact"><a href="thumbs/CV_Jixing.pdf" target="_blank"><strong>CV</strong></a></p>
+                        <p class="person-description">
+                        PhD Linguistics, Cornell | MSc Experimental Psychology, Oxford | MA Linguistics, UCL | BA English, BNU<br>
+                        computational modeling, cognitive neuroscience of speech and language<br>
+                        INTP, Gemini
+                        </p>
+                    </div>
+
+                    <div class="person-card">
+                        <img src="thumbs/changjiang.jpg" alt="Changjiang Gao" class="person-photo">
+                        <h3 class="person-name">Changjiang Gao</h3>
+                        <p class="person-position">Joint Ph.D. Student</p>
+                        <p class="person-contact">changjgao2-c[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        BSc Computer Science and Technology, NJU<br><br>
+                        multilingual LLMs, mechanism interpretability<br><br>
+                        INTP, Cancer
+                        </p>
+                    </div>
+                    
+                    <div class="person-card">
+                        <img src="thumbs/chengcheng2.jpg" alt="Chengcheng" class="person-photo">
+                        <h3 class="person-name">Chengcheng Wang</h3>
+                        <p class="person-position">Ph.D. Student</p>
+                        <p class="person-contact">chengcheng[dot]wang[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        MA Language Studies, CityUHK | BA Japanese, HUST<br><br>
+                        multimodal LLMs, cogntiive neurosciece of language<br><br>
+                        ENTJ, Cancer
+                        </p>
+                    </div>
+
+                    <div class="person-card">
+                        <img src="thumbs/weiqiong.jpg" alt="Weiqiong Sun" class="person-photo">
+                        <h3 class="person-name">Weiqiong Sun</h3>
+                        <p class="person-position">Joint Ph.D. Student</p>
+                        <p class="person-contact">weiqiosun2-c[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        MA Linguistics, QFNU | BA English, QFNU<br><br>
+                        psycholinguistics, syntax-semantics interface<br><br>
+                        ISFP, Pisces
+                        </p>
+                    </div>
+                    
+                    <div class="person-card">
+                        <img src="thumbs/zhengwu.jpg" alt="Zhengwu Ma" class="person-photo">
+                        <h3 class="person-name">Zhengwu Ma</h3>
+                        <p class="person-position">Ph.D. Student</p>
+                        <p class="person-contact">zhengwu[dot]ma[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        MA Language Studies, CityUHK | BA English, XJTU<br><br>
+                        cognitive modeling, cognitive neuroscience of speech and langauge<br><br>
+                        INTJ, Gemini
+                        </p>
+                    </div>
+
+                    <div class="person-card">
+                        <img src="thumbs/yuhan.jpg" alt="Yuhan Huang" class="person-photo">
+                        <h3 class="person-name">Yuhan Huang</h3>
+                        <p class="person-position">Ph.D. Student</p>
+                        <p class="person-contact">yuhan[dot]huang[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        MA Language Studies, CityUHK | BA Chinese, XMU<br><br>
+                        cognitive neuroscience of speech and langauge<br><br>
+                        ISTP, Sagittarius
+                        </p>
+                    </div>
+
+                    <div class="person-card">
+                        <img src="thumbs/nanwu.jpg" alt="Nan Wu" class="person-photo">
+                        <h3 class="person-name">Nan Wu</h3>
+                        <p class="person-position">Ph.D. Student</p>
+                        <p class="person-contact">nanwu43-c[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        MA Language Studies, CityUHK | BEc Financial Mathematics, DUFE<br><br>
+                        LLMs, reinforcement learning<br><br>
+                        INTJ, Sagittarius
+                        </p>
+                    </div>
+
+                    <div class="person-card">
+                        <img src="thumbs/yike.jpg" alt="Yike Wang" class="person-photo">
+                        <h3 class="person-name">Yike Wang</h3>
+                        <p class="person-position">Research Assistant</p>
+                        <p class="person-contact">yike[dot]elaine[dot]wang[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        MA Language Studies, CityUHK | BA English, YZU<br><br>
+                        cognitive neuroscience of language, LLMs<br><br>
+                        INTJ, Capricornus
+                        </p>
+                    </div>
+
+                    <div class="person-card">
+                        <img src="thumbs/yinjie.jpg" alt="Yinjie Chen" class="person-photo">
+                        <h3 class="person-name">Yinjie Chen</h3>
+                        <p class="person-position">Research Assistant</p>
+                        <p class="person-contact">maxwellcaffrey915[at]gmail[dot]com</p>
+                        <p class="person-description">
+                        <br>
+                        MEng Electronic Information, ZJU | BEng Communication Engineering, HCU<br><br>
+                        multimodal LLMs<br><br>
+                        INTJ, Aquarius
+                        </p>
+                    </div>
+
+                    <div class="person-card">
+                        <img src="thumbs/qimiao.jpg" alt="Qimiao Gao" class="person-photo">
+                        <h3 class="person-name">Qimiao Gao</h3>
+                        <p class="person-position">Undergraduate Student</p>
+                        <p class="person-contact">qimiao[dot]gao[at]my[dot]cityu[dot]edu[dot]hk</p>
+                        <p class="person-description">
+                        <br>
+                        BSc student Computer Science & Neuroscience (minor), CityUHK<br><br>
+                        computational cognitive science, brain-inspired AI<br><br>
+                        INTP, Gemini
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Former Members -->
+            <section class="people-section">
+                <div class="section-header">
+                    <h2 class="section-title">Alumni</h2>
+                </div>
+                <div class="people-grid-three">
+                    <div class="person-card">
+                        <h3 class="person-name">Nan Wang</h3>
+                        <p class="person-position">Former Research Assistant</p>
+                        <p class="person-description">Now Research Assistant at CUHK</p>
+                    </div>
+
+                    <div class="person-card">
+                        <h3 class="person-name">Hongbin Qing</h3>
+                        <p class="person-position">Former Ph.D. student</p>
+                        <p class="person-description">Now Ph.D. student at CityUHK</p>
+                    </div>
+
+                    <div class="person-card">
+                        <h3 class="person-name">Qian Zhou</h3>
+                        <p class="person-position">Former Ph.D. student</p>
+                        <p class="person-description">Now postdoc at Fudan</p>
+                    </div>
+
+                    <div class="person-card">
+                        <h3 class="person-name">Honghao Liu</h3>
+                        <p class="person-position">Former RA</p>
+                        <p class="person-description">Now Ph.D. student at HKUST(GZ)</p>
+                    </div>
+
+                    <div class="person-card">
+                        <h3 class="person-name">Shuyi Wu</h3>
+                        <p class="person-position">Former RA</p>
+                        <p class="person-description">Now Ph.D. student at PolyU</p>
+                    </div>
+
+                    <div class="person-card">
+                        <h3 class="person-name">Toby Wai Yin Lau</h3>
+                        <p class="person-position">Former RA</p>
+                    </div>
+                </div>
+            </section>
         </div>
-        <div class="span8 offset1">
-          <section id="principalinvestigator">
-            <div class="page-header">
-              <h3>Principal Investigator</h3>
-            </div>
-            <div class="row-fluid">
-              <div class="span3">
-                <a href="https://jixing-li.github.io/" class="thumbnail">
-                  <img src="thumbs/jixing.jpg" alt="Li Jixing"/>
-                </a>
-              </div>
-              <div class="span9">
-                <h4>Jixing Li</h4>
-                <p>
-                  Assistant Professor, <a href="https://scholars.cityu.edu.hk/en/organisations/department-of-linguistics-and-translation(4ddc471f-8503-4656-bd2b-5a4ab20fe294).html">Department of Linguistics and Translation</a><br/>
-                  Assistant Professor, Affiliate, <a href="https://scholars.cityu.edu.hk/en/organisations/department-of-social-and-behavioural-sciences(1c532fde-db89-49da-bc56-d6ae22d39cf2).html">Department of Social and Behavioural Sciences</a><br/>
-                </p>
-                <p>Ph.D., Linguistics, Cornell University, 2019</p>
-                <p><b>Phone: </b>(852) 34425596 </p>
-                <p><b>Email: </b><a href="mailto:jixingli@cityu.edu.hk">jixingli@cityu.edu.hk</a></p>
-                <p><b>Address: </b>Room LI-5470, Lift 5, Li Dak Sum Yip Yio Chin Academic Building, City University of Hong Kong</p>
-                <p><b><a href="thumbs/CV.pdf">CV</a><a href="https://scholar.google.com/citations?user=BAQ5tWoAAAAJ&hl=en">Google Scholar</a></b></p>
-              </div>
-            </div>
-          </section>
-          <hr>
-          <section id="phd">
-            <div class="page-header">
-              <h3>Ph.D. Students</h3>
-            </div>
-            <div class="row-fluid">
-              <div class="span3">
-                <img src="thumbs/changjiang.jpg" alt="Gao Changjiang"/>
-              </div>
-              <div class="span9">
-                <h4>Changjiang Gao</h4>
-                <p>B.Sc., Computer Science and Technology (Brain Science and Artificial Intelligence), Nanjing University</p>
-                <p>Joint Ph.D. Program with Prof. Shujian Huang, Nanjing University.</p>
-                <p><b>Email: </b><a href="mailto:gaocj@smail.nju.edu.cn">gaocj@smail.nju.edu.cn</a></p>
-              </div>
-            </div>
-            <hr>
-            <div class="row-fluid">
-              <div class="span3">
-                <img src="thumbs/qian.jpg" alt="Zhou Qian"/>
-              </div>
-              <div class="span9">
-                <h4>Qian Zhou</h4>
-                <p>
-                  B.Sc., Biomedical Engineering, Capital Medical University<br/>
-                  M.Sc., Biophysics, Capital Medical University
-                </p>
-                <p>Co-supervise with Prof. Zhiwu Huang, Shanghai Jiao Tong University.</p>
-                <p><b>Email: </b><a href="mailto:zhouqian_1996@sjtu.edu.cn">zhouqian_1996@sjtu.edu.cn</a></p>
-              </div>
-            </div>
-            <hr>
-            <div class="row-fluid">
-              <div class="span3">
-                <a href="https://chengcheng-wang.github.io/" class="thumbnail">
-                  <img src="thumbs/chengcheng2.jpg" alt="Wang Chengcheng"/>
-                </a>
-              </div>
-              <div class="span9">
-                <h4>Chengcheng Wang</h4>
-                <p>
-                  B.A., Japanese Language and Literature, Huazhong University of Science and Technology<br/>
-                  M.A., Language Studies, Corpus & Empirical Linguistics, City University of Hong Kong
-                </p>
-                <p><b>Email: </b><a href="mailto:cwang495-c@my.cityu.edu.hk">cwang495-c@my.cityu.edu.hk</a></p>
-              </div>
-            </div>
-            <hr>
-            <div class="row-fluid">
-              <div class="span3">
-                <img src="thumbs/weiqiong.jpg" alt="Sun Weiqiong"/>
-              </div>
-              <div class="span9">
-                <h4>Weiqiong Sun</h4>
-                <p>
-                  B.A., Translation, Qufu Normal University<br/>
-                  M.A., Neurolinguistics, Qufu Normal University
-                </p>
-                <p>Joint Ph.D. Program with Prof. Shenai Hu, Xiamen University</p>
-                <p><b>Email: </b><a href="mailto:weiqiosun2-c@my.cityu.edu.hk">weiqiosun2-c@my.cityu.edu.hk</a></p>
-              </div>
-            </div>
-            <hr>
-            <div class="row-fluid">
-              <div class="span3">
-                <a href="https://zhengwuma.github.io/" class="thumbnail">
-                  <img src="thumbs/zhengwu.jpg" alt="Ma Zhengwu"/>
-                </a>
-              </div>
-              <div class="span9">
-                <h4>Zhengwu Ma</h4>
-                <p>
-                  B.A., English, Linguistics Specialization, Xi'an Jiaotong University<br/>
-                  M.A., Corpus & Empirical Linguistics, City University of Hong Kong
-                </p>
-                <p><b>Email: </b><a href="mailto:zhengwu.ma@my.cityu.edu.hk">zhengwu.ma@my.cityu.edu.hk</a></p>
-              </div>
-            </div>
-          </section>
-          <hr>
-          <section>
-            <div class="page-header" id="ug">>
-              <h3>Undergraduate Students</h3>
-            </div>
-            <div class="row-fluid">
-              <div class="span3">
-                <img src="thumbs/qimiao.jpg" alt="Qimiao Gao"/>
-              </div>
-              <div class="span9">
-                <h4>Qimiao Gao</h4>
-                <p>B.Sc., Computer Science, City University of Hong Kong</p>
-                <p><b>Email: </b><a href="mailto:qimiaogao2-c@my.cityu.edu.hk">qimiaogao2-c@my.cityu.edu.hk</a></p>
-              </div>
-            </div>
-          </section>
-          <hr>
-          <section id="alumni">
-            <div class="page-header">
-              <h3>Alumni</h3>
-            </div>
-            <ul style="font-size: 15px;line-height: 1.7;">
-              <li><a href="https://hongbinqing.github.io/">Hongbin Qing</a>, former PhD student</li>
-              <li><a href="https://hlsud.github.io/about.html">Honghao Liu</a>, former RA &rarr; now PhD student at HKUST(GZ)</li>
-              <li><a href="https://wu-shuyi.github.io/">Shuyi Wu</a>, former RA &rarr; now PhD student at PolyU</li>
-              <li>Toby Wai Yin Lau, former RA</li>
-              <li>Jianrui Wu, former UG student</li>
-              <li>Jinyu Zhou, former UG student</li>
-            </ul>
-          </section>
-          <hr>
+    </main>
+
+    <!-- Join Our Team CTA -->
+    <section class="cta-section">
+        <div class="container">
+            <h2 class="cta-title">Join Us</h2>
+            <p class="cta-description">
+                We welcome motivated students, postdocs, and researchers to join our team!
+            </p>
         </div>
-      </div>
-      <footer id="footer">
-        <div class="container-fluid">
-          <div class="row-fluid">
-            <div class="span5">
-              <h3 style="color: white;font-size: 18px;font-family: Gill Sans, sans-serif;">Contact Information</h3>
-              <p><b>Phone: </b>(852) 34425596</p>
-              <p><b>Email: </b><a href="mailto:jixingli@cityu.edu.hk">jixingli@cityu.edu.hk</a></p>
-            </div>
-            <div class="span2">
-              <a href=""><img src="thumbs/webbottom.png" alt="research-lab-logo"/></a>
-            </div>
-            <div class="span5">
-              <h3 style="color: white;font-size: 18px;font-family: Gill Sans, sans-serif;">Address</h3>
-              <p>
-                Room LI-5459, Lift 5<br/>
-                Li Dak Sum Yip Yio Chin Academic Building<br/>
-                City University of Hong Kong
-              </p>
-              <a href="https://goo.gl/maps/2xJSqR4uNexZBdVv5">Show Map</a>
-            </div>
-          </div>
-        </div>
-      </footer>
-    </div>
-    <!-- Le javascript
-         ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-1.9.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script>
-      $(document).ready(function() {
-        $(document.body).scrollspy({
-          target: "#navparent"
-        });
-      });
-    </script>
-  </body>
+    </section>
+
+</body>
 </html>
