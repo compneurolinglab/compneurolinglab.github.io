@@ -550,6 +550,8 @@ body {
     text-align: center;
     box-shadow: 0 4px 15px rgba(0,0,0,0.08);
     transition: transform 0.3s ease;
+    min-width: 0;
+    width: 100%;
 }
 
 .person-card:hover {
@@ -591,6 +593,8 @@ body {
     color: #666;
     font-size: 0.9rem;
     margin-bottom: 0.3rem;
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 
 .person-description {
