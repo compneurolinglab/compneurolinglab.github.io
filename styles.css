@@ -455,7 +455,7 @@ body {
 .news-image {
     width: 400px;
     height: 250px;
-    object-fit: contain;
+    object-fit: cover;
     object-position: center;
     flex-shrink: 0;
     border-radius: 6px;
