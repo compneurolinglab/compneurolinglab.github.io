@@ -1,0 +1,178 @@
+[
+  {
+    "date": "Jan 8, 2026",
+    "image": "images/lpp_challenge.png",
+    "imageAlt": "BIOMAG 2026 LPP Decoding Challenge",
+    "title": "BIOMAG 2026 LPP Decoding Challenge is Open!",
+    "description": "Take the challenge! Work with naturalistic MEG and fMRI data to decode brain activity. Registration is now open for the <a href=\"https://compneurolinglab.github.io/biomag_challenge/\">BIOMAG 2026 Le Petit Prince (LPP) Decoding Challenge</a>.",
+    "links": [
+      {"text": "Register Now", "url": "https://compneurolinglab.github.io/biomag_challenge/"}
+    ]
+  },
+  {
+    "date": "Nov 18, 2025",
+    "image": "images/baba.jpg",
+    "imageAlt": "BABA Dataset",
+    "title": "Our BABA dataset is out in <em>Scientific Data</em>!",
+    "description": "Our new data paper \"Naturalistic fMRI and MEG recordings during viewing of a reality TV show\" is finally <a href=\"https://www.nature.com/articles/s41597-025-06110-5\">online</a>!",
+    "links": [
+      {"text": "OpenNeuro", "url": "https://openneuro.org/datasets/ds005346"}
+    ]
+  },
+  {
+    "date": "May 22, 2025",
+    "image": "images/ncs.jpg",
+    "imageAlt": "Scaling",
+    "title": "Our scaling vs. finetuning paper is out in <em>Nature Computational Science</em>!",
+    "description": "Our paper \"Increasing alignment of large language models with language processing in the human brain\" is finally <a href=\"https://www.nature.com/articles/s43588-025-00863-0\">online</a>!<br>Big thanks to all the collaborators!"
+  },
+  {
+    "date": "Sep 12-14, 2025",
+    "image": "images/snl_hk.jpg",
+    "imageAlt": "SNL",
+    "title": "SNL2027 is going to be held in Hong Kong!",
+    "description": "Jixing is one of the organizers of SNL 2027 and looks forward to welcoming you—with good milk tea!"
+  },
+  {
+    "date": "Sep 12-14, 2025",
+    "image": "images/snl2025.jpg",
+    "imageAlt": "SNL",
+    "title": "Society for the Neurobiology of Language (SNL) 17th Annual Meeting",
+    "description": "Zhengwu and Qimiao presented their poster titled \"Neural tracking of semantic and rhythmic information under temporal compression\" at SNL2025, Washington, D.C., USA."
+  },
+  {
+    "date": "Aug 12-15, 2025",
+    "image": "images/ccn2025.jpg",
+    "imageAlt": "CCN",
+    "title": "8th Annual Conference on Cognitive Computational Neuroscience (CCN)",
+    "description": "Jixing (on behalf of Chengcheng) presented a poster titled \"Finding modularity in large language models: Insights from aphasia simulations\" at CCN2025, Amsterdam, Netherlands."
+  },
+  {
+    "date": "May 20, 2025",
+    "image": "images/lppmulti.jpg",
+    "imageAlt": "LPP Multi-talker Dataset",
+    "title": "Our new Le Petit Prince (LPP) Multi-talker data paper is out in <em>Scientific Data</em>!",
+    "description": "Our new data paper \"Le Petit Prince (LPP) Multi-talker: Naturalistic 7T fMRI and EEG dataset\" is <a href=\"https://www.nature.com/articles/s41597-025-05158-7\">online</a>!",
+    "links": [
+      {"text": "OpenNeuro", "url": "https://openneuro.org/datasets/ds005345/versions/1.0.1"}
+    ]
+  },
+  {
+    "date": "Oct 24-26, 2024",
+    "image": "images/snl2024.jpg",
+    "imageAlt": "SNL",
+    "title": "Society for the Neurobiology of Language (SNL) 16th Annual Meeting",
+    "description": "Zhengwu and Chengcheng presented two posters titled \"Modeling the trajectory of language processing in neural state space\" and \"Functional specificity in multimodal large language models and the human brain\" at SNL2024, Brisbane, Australia. Jixing organized the Symposia \"Modeling linguistic processes through experimental and naturalistic designs.\""
+  },
+  {
+    "date": "Aug 26-29, 2024",
+    "image": "images/biomeg.jpg",
+    "imageAlt": "BIOMEG Conference",
+    "title": "The 23rd International Conference on Biomagnetism (BIOMEG)",
+    "description": "Jixing gave two talks titled \"Semantic composition in experimental and naturalistic paradigms\" and \"Neural tracking of bottom-up and top-down processes in speech comprehension\" at BIOMEG 2024, Sydney, Australia."
+  },
+  {
+    "date": "Aug 11-16, 2024",
+    "image": "images/acl1.jpg",
+    "imageAlt": "ACL Conference",
+    "title": "The 62nd Annual Meeting of the Association for Computational Linguistics (ACL)",
+    "description": "Changjiang and Jixing presented a poster titled \"Measuring meaning composition in the human brain with composition scores from large language models\" at ACL2024, Bangkok, Thailand.",
+    "links": [
+      {"text": "paper", "url": "https://aclanthology.org/2024.acl-long.609/"}
+    ]
+  },
+  {
+    "date": "Aug 11-16, 2024",
+    "image": "images/acl2.jpg",
+    "imageAlt": "ACL Tutorial",
+    "title": "The 62nd Annual Meeting of the Association for Computational Linguistics (ACL)",
+    "description": "Met friends at ACL 👆 Jixing gave a tutorial titled \"Computational linguistics for brain encoding and decoding: Principles, practices and beyond\" at ACL 2024, Bangkok, Thailand.",
+    "links": [
+      {"text": "tutorial abstract", "url": "https://aclanthology.org/2024.acl-tutorials.1/"}
+    ]
+  },
+  {
+    "date": "Aug 3-9, 2024",
+    "image": "images/ijcal.jpg",
+    "imageAlt": "IJCAI Conference",
+    "title": "The 33rd International Joint Conference on Artificial Intelligence (IJCAI)",
+    "description": "Jixing gave a tutorial titled \"Brain encoding and decoding with deep neural networks: Methods, Applications, and Future Directions\" at IJCAI 2024, Jeju Island, South Korea.",
+    "links": [
+      {"text": "tutorial abstract", "url": "https://ijcai24.org/tutorials/"}
+    ]
+  },
+  {
+    "date": "May 6-7, 2024",
+    "image": "images/3cluster.jpg",
+    "imageAlt": "Brain Research Cluster",
+    "title": "Third Brain Research Cluster Symposium: AI, Speech, and Language Sciences",
+    "description": "LAMB is hosting the 3rd CityU Brain Research Cluster Symposium!",
+    "links": [
+      {"text": "poster", "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://research.class.cityu.edu.hk/wp-content/uploads/2024/05/3rd_brain_symposium_poster.pdf"},
+      {"text": "schedule", "url": "https://research.class.cityu.edu.hk/wp-content/uploads/2024/05/3rd_brain_symposium_schedule.png"}
+    ]
+  },
+  {
+    "date": "Oct 24-26, 2023",
+    "image": "images/snl2023.jpg",
+    "imageAlt": "SNL",
+    "title": "Society for the Neurobiology of Language (SNL) 15th Annual Meeting",
+    "description": "Changjiang presented a poster titled \"Impact of model size and fine-tuning techniques on LLMs' resemblance to the human brain\" in Marseille, France.",
+    "links": [
+      {"text": "abstract", "url": "https://www.neurolang.org/2023/presentation/?id=1559"}
+    ]
+  },
+  {
+    "date": "Mar 31 - Apr 1, 2023",
+    "image": "thumbs/second_brain_research_cluster_symposium.png",
+    "imageAlt": "Brain Research Cluster",
+    "title": "Second Brain Research Cluster Symposium: NLP X Neurolinguistics",
+    "description": "Research topics covered include: media neuroscience, cognitive neuroscience, communication neuroscience, neurolinguistics, EEG and fMRI for social science research."
+  },
+  {
+    "date": "Mar 25-28, 2023",
+    "image": "thumbs/CNS2023.png",
+    "imageAlt": "CNS Conference",
+    "title": "The Cognitive Neuroscience Society (CNS) 30th Annual Meeting",
+    "description": "Jixing presented a poster titled \"Modeling multi-talker speech comprehension in normal and hearing-impaired listeners\" at CNS2023, San Francisco, USA."
+  },
+  {
+    "date": "Mar 25, 2023",
+    "image": "thumbs/HK300.jpg",
+    "imageAlt": "HK Tech 300",
+    "title": "HK Tech 300",
+    "description": "Our group won the best pitch of the HKTech 300 (9th cohort)!"
+  },
+  {
+    "date": "Jan 15, 2023",
+    "image": "thumbs/NeuroAI_RoundtableForum.jpg",
+    "imageAlt": "Roundtable Forum",
+    "title": "Roundtable Forum: Mechanisms of language processing in brains and machines",
+    "description": "Roundtable forum topics: take ChatGPT as an example to explore the relationship between artificial neural language models and language processing in the human brain:<br>1. Does ChatGPT resemble human language processing?<br>2. Can neural language models help us understand how the brain processes language?<br>3. How can studies of language processing in the human brain help advance natural language processing models?",
+    "links": [
+      {"text": "seminar and registration details", "url": "https://pattern.swarma.org/study_group_issue/397?from=wechat"}
+    ]
+  },
+  {
+    "date": "Jan 8, 2023",
+    "image": "thumbs/reading.png",
+    "imageAlt": "NeuroAI Seminar",
+    "title": "NeuroAI Reading Seminar: Syntax and semantics in NLP models",
+    "description": "This reading seminar will discuss two review articles about the syntactic and semantic abilities of deep learning language models. The outline of the seminar is as follows:<br>1. Syntax: long-distance agreement, nature vs nurture.<br>2. Reading: <a href=\"https://www.annualreviews.org/doi/abs/10.1146/annurev-linguistics-032020-051035\" target=\"_blank\">Syntactic structure from deep learning</a>.<br>3. Semantics: Distributional Semantics, Compositional Semantics.<br>4. Reading: <a href=\"https://www.annualreviews.org/doi/abs/10.1146/annurev-linguistics-031120-122924\" target=\"_blank\">Semantic structure in deep learning</a>.<br>5. Conclusion and discussion.",
+    "links": [
+      {"text": "seminar and registration details", "url": "https://pattern.swarma.org/study_group_issue/395?from=wechat"}
+    ]
+  },
+  {
+    "date": "Dec 10-11, 2022",
+    "image": "thumbs/Neuroimaging_Workshop_Cover.png",
+    "imageAlt": "Neuroimaging Workshop",
+    "title": "Neuroimaging Methods Workshop",
+    "description": "This 2-day workshop covers various topics in analysing neuroimaging data, including fMRI, MEG, EEG and ECoG.<br>The goal of the workshop is to introduce neuroimaging concepts and practice analysis skills with hands-on tutorials.",
+    "links": [
+      {"text": "speakers details and tutorial titles", "url": "https://research.class.cityu.edu.hk/wp-content/uploads/2022/11/neuroimaging_methods_workshop.pdf"},
+      {"text": "Seminar workshop section", "url": "seminars.html"}
+    ]
+  }
+]
+
